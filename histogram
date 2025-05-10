@@ -1,0 +1,15 @@
+
+data <- read.csv('Oakleaf_v2.csv')
+
+
+hist(data$OakLeaves,
+     breaks = 20,
+     col = "red",
+     main = "Distribution of Oak Leaves on a Composter (Minecraft)",
+     xlab = "Oak Leaves (units)",
+     ylab = "Frequency",
+     border = "black"
+)
+
+
+grid(nx = NA, ny = NULL, lty = 2, col = "gray", lwd = 0.5)
