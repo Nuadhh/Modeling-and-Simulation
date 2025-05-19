@@ -1,0 +1,30 @@
+1. Exponential Distribution
+Imagine a bus stop where buses come randomly, but on average every 10 minutes. The exponential distribution helps guess how long you might wait for the next one. Sometimes it’s 1 minute, sometimes 15, but mostly close to the average.
+
+2. Normal Distribution
+Think of it like most people’s height—many are average, fewer are very tall or very short. It's shaped like a hill: most values are in the middle, with less and less as you go farther out.
+
+3. Poisson Distribution
+Suppose you work at a help desk and count how many people call every hour. Sometimes it’s 3, sometimes 6, sometimes none—but there’s an average. Poisson helps you model that number of calls per hour.
+
+4. Binomial Distribution
+You flip a coin 10 times. How many times will it land on heads? The binomial distribution helps you figure that out when there are only two results (like win or lose, pass or fail).
+
+5. Triangular Distribution
+Let’s say you’re driving home. The fastest it can take is 10 minutes, the slowest is 30, but it usually takes 20. The triangular distribution forms a triangle using these three numbers.
+
+6. Lognormal Distribution
+Think of how much money people make: most people earn close to average, but a few earn a lot more. If you take the log of those numbers, they line up nicely like a normal curve.
+
+7. Gamma Distribution
+Imagine a machine doing several steps before completing a task. The time it takes for all the steps varies. Gamma helps you figure out how long the full process will take, especially if the steps aren’t equally spaced.
+
+8. Beta Distribution
+Let’s say you’re guessing a chance—like “what are the odds it rains today?” Beta is great for modeling uncertain percentages between 0 and 100%, especially when you only have a rough idea.
+
+9. Weibull Distribution
+Think about lightbulbs—some fail early, some last long. Weibull helps predict when things like machines or parts might break over time. It adjusts for whether failures happen more as time goes on.
+
+10. Uniform Distribution
+This one is super simple: everything is equally likely. Imagine a spinning wheel numbered 1 to 10—each number has the exact same chance of being picked.
+
